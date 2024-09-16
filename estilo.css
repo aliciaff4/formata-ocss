@@ -1,0 +1,62 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    /* background-color: burlywood; */
+    background-image: url(https://img.freepik.com/fotos-premium/lua-sobre-o-mar-a-noite-fechada-com-caminho-de-luar-no-estilo-de-luar_117406-5279.jpg) ;
+    /* background-repeat: repeat; */
+    background-size: cover;
+    /* background-position: left; */
+    background-attachment: fixed;
+}
+
+main{
+    width: 80%;
+    margin: auto;
+    background-color: rgba(44, 58, 139, 0.5);
+    padding-top: 50px;
+    padding-left: 50px;
+    padding-right: 50px;
+    border:violet 5px solid ;
+    border-radius: 30px;
+    margin-bottom: 5%;
+}
+
+p{
+    color: deepskyblue;
+    font-family: cursive;
+    font-size: 20px;
+    font-weight: 700;
+    /* font-style:oblique; */
+    /* font-stretch: normal; */
+    line-height: 20
+px;
+    /* letter-spacing: ;     */
+    /* word-spacing: px; */
+/* text-align: justify; */
+/* text-decoration: blue; */
+/* text-transform: capitalize; */
+   text-indent: 50px;
+   text-shadow: 2px 3px 1px black;
+}
+
+img{
+    margin-left: 33%;
+    margin-top: 5%;
+    margin-bottom: 5%;
+    height: 50%;
+    width: 30%;
+   
+}
+
+h1{
+    text-align: center;
+
+}
+footer{
+    margin-bottom: 0%;
+    padding-top: 1%;
+}
